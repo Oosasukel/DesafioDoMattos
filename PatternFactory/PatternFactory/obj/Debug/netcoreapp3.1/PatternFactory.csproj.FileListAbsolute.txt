@@ -1,0 +1,11 @@
+C:\Users\ROGN\Downloads\PatternFactory\PatternFactory\bin\Debug\netcoreapp3.1\PatternFactory.exe
+C:\Users\ROGN\Downloads\PatternFactory\PatternFactory\bin\Debug\netcoreapp3.1\PatternFactory.deps.json
+C:\Users\ROGN\Downloads\PatternFactory\PatternFactory\bin\Debug\netcoreapp3.1\PatternFactory.runtimeconfig.json
+C:\Users\ROGN\Downloads\PatternFactory\PatternFactory\bin\Debug\netcoreapp3.1\PatternFactory.runtimeconfig.dev.json
+C:\Users\ROGN\Downloads\PatternFactory\PatternFactory\bin\Debug\netcoreapp3.1\PatternFactory.dll
+C:\Users\ROGN\Downloads\PatternFactory\PatternFactory\bin\Debug\netcoreapp3.1\PatternFactory.pdb
+C:\Users\ROGN\Downloads\PatternFactory\PatternFactory\obj\Debug\netcoreapp3.1\PatternFactory.csprojAssemblyReference.cache
+C:\Users\ROGN\Downloads\PatternFactory\PatternFactory\obj\Debug\netcoreapp3.1\PatternFactory.AssemblyInfoInputs.cache
+C:\Users\ROGN\Downloads\PatternFactory\PatternFactory\obj\Debug\netcoreapp3.1\PatternFactory.AssemblyInfo.cs
+C:\Users\ROGN\Downloads\PatternFactory\PatternFactory\obj\Debug\netcoreapp3.1\PatternFactory.dll
+C:\Users\ROGN\Downloads\PatternFactory\PatternFactory\obj\Debug\netcoreapp3.1\PatternFactory.pdb
